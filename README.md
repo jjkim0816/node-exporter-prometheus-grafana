@@ -13,5 +13,5 @@
     $ vi /etc/hosts
     
 - grafana 인 경우 dashboard template를 import 해서 사용하는게 좋다.
-  import url : https://grafana.com/dashboards/22
+  - import url : https://grafana.com/dashboards/22
 
